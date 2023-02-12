@@ -18,3 +18,5 @@ Broadcast mode: the server transmits data to many clients that are connected;
 
 Mesh network: all the devices are connected, this is a many to many connection.
 Even though the broadcast and mesh network setups are possible to implement, they were developed very recently, so there aren’t many examples implemented for the ESP32 at this moment.
+
+The Sensor Used in this Project is DHT11(Digital Output Relative Humidity and Temperature Sensor)
